@@ -23,7 +23,7 @@ npx ts-node --files ./scripts/QueryResults.ts <contract_address>
 ```
 # Contract deployed
 https://sepolia.etherscan.io/address/0x22f89b7f5b27ef928df53cbb3d8d17247ac7fc83
-![transactions](https://ibb.co/RpBRLTt)
+![transactions](Screenshot.png)
 
 
 # OutPut 
